@@ -1,3 +1,4 @@
 # Jenkins-K8S-Project
 
-![image](https://github.com/user-attachments/assets/b5daf0bc-1036-4cd0-9179-26e8140cdfa0)
+![image](https://github.com/user-attachments/assets/a838a237-28e3-4ba0-8860-eb66b4df1da9)
+
